@@ -21,7 +21,7 @@ This project is designed for learning how real backend architecture works in .NE
 # 📂 Project Structure
 
 ```plaintext
-FoodDeliveryBackend/
+backend/
 │
 ├── Controllers
 ├── Models
@@ -39,7 +39,7 @@ FoodDeliveryBackend/
 │
 ├── appsettings.json
 ├── Program.cs
-└── FoodDeliveryBackend.csproj
+└── backend.csproj
 ```
 
 ---
