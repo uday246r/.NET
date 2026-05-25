@@ -752,7 +752,3 @@ That is the real power of .NET backend development.
 # 👨‍💻 Author
 
 Built while learning ASP.NET Core 10 MVC Backend Development.
-
-# 👨‍💻 Author
-
-Built while learning ASP.NET Core 10 MVC Backend Development.
